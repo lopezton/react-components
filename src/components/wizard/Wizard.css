@@ -1,0 +1,6 @@
+.wizard > .wizard-step {
+    display: none;
+}
+.wizard > .wizard-step.active {
+    display: block;
+}
