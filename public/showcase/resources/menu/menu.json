@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "name": "Home",
+      "to": "/"
+    }, {
+      "name": "Wizard",
+      "to": "/wizard"
+    }
+  ]
+}
